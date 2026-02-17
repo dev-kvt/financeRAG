@@ -1,0 +1,8 @@
+llama-index
+chromadb
+unstructured[pdf]
+pypdf
+python-dotenv
+streamlit
+openai
+rank-bm25
