@@ -47,7 +47,6 @@ Production-grade Retrieval-Augmented Generation (RAG) system for financial docum
 ### 1. Python environment
 
 ```bash
-cd /Users/divyanshsingh/Developer/rag_exp
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
